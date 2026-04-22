@@ -1,0 +1,17 @@
+Feature,Type,Count,Missing%,Min,Max,Mean,Std
+Density_g_cm3,Physical,783,0.0,2.53,2.85,2.72,0.07
+Al_wt,Composition,783,0.0,82.86,99.50,93.77,4.09
+Cu_wt,Composition,783,0.0,0.00,6.60,1.21,1.67
+Fe_wt,Composition,783,0.0,0.00,1.48,0.53,0.24
+Mg_wt,Composition,783,0.0,0.00,7.02,1.12,1.27
+Mn_wt,Composition,783,0.0,0.00,1.39,0.34,0.35
+Si_wt,Composition,783,0.0,0.00,13.20,1.73,3.20
+Ti_wt,Composition,783,0.0,0.00,0.29,0.10,0.08
+Zn_wt,Composition,783,0.0,0.00,8.13,0.88,1.85
+Cr_wt,Composition,783,0.0,0.00,0.50,0.10,0.09
+Others_wt,Composition,783,0.0,0.01,2.62,0.24,0.62
+UTS_MPa,Target,783,0.0,71.70,623.00,289.89,143.87
+YS_MPa,Target,783,0.0,25.60,538.00,225.24,135.99
+Elongation_pct,Target,783,0.0,0.30,43.50,12.73,8.23
+Hardness_HB,Target,783,0.0,15.80,169.40,79.16,39.04
+Modulus_GPa,Target,783,0.0,66.60,81.80,71.50,3.28

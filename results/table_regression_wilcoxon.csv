@@ -1,0 +1,16 @@
+Target,Model_A,Model_B,p_value,Significant_a=0.05
+UTS_MPa,LightGBM,RandomForest,0.812,n.s.
+UTS_MPa,LightGBM,XGBoost,0.625,n.s.
+UTS_MPa,RandomForest,XGBoost,0.188,n.s.
+YS_MPa,LightGBM,RandomForest,0.625,n.s.
+YS_MPa,LightGBM,XGBoost,0.625,n.s.
+YS_MPa,RandomForest,XGBoost,0.312,n.s.
+Elongation_pct,LightGBM,RandomForest,0.312,n.s.
+Elongation_pct,LightGBM,XGBoost,1.000,n.s.
+Elongation_pct,RandomForest,XGBoost,0.625,n.s.
+Hardness_HB,LightGBM,RandomForest,0.438,n.s.
+Hardness_HB,LightGBM,XGBoost,0.812,n.s.
+Hardness_HB,RandomForest,XGBoost,0.625,n.s.
+Modulus_GPa,LightGBM,RandomForest,0.625,n.s.
+Modulus_GPa,LightGBM,XGBoost,0.625,n.s.
+Modulus_GPa,RandomForest,XGBoost,1.000,n.s.

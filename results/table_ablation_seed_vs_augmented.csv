@@ -1,0 +1,7 @@
+Task,Model,Seed+Aug_mean,Seed-only_mean,Delta,N_seed_aug,N_seed_only
+Classification (F1w),LightGBM,0.783,0.792,-0.009,580,199
+Classification (F1w),RandomForest,0.834,0.861,-0.027,580,199
+Classification (F1w),XGBoost,0.706,0.772,-0.067,580,199
+Regression (avg R2),LightGBM,0.697,0.634,+0.063,580,199
+Regression (avg R2),RandomForest,0.691,0.709,-0.018,580,199
+Regression (avg R2),XGBoost,0.673,0.666,+0.008,580,199

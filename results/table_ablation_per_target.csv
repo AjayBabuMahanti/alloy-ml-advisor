@@ -1,0 +1,16 @@
+Target,Model,R2_seed_aug,R2_seed_only,Delta
+UTS_MPa,LightGBM,0.790,0.799,-0.010
+YS_MPa,LightGBM,0.743,0.788,-0.044
+Elongation_pct,LightGBM,0.793,0.753,+0.040
+Hardness_HB,LightGBM,0.794,0.801,-0.006
+Modulus_GPa,LightGBM,0.363,0.030,+0.333
+UTS_MPa,RandomForest,0.813,0.814,-0.001
+YS_MPa,RandomForest,0.757,0.805,-0.049
+Elongation_pct,RandomForest,0.805,0.789,+0.015
+Hardness_HB,RandomForest,0.820,0.826,-0.006
+Modulus_GPa,RandomForest,0.258,0.308,-0.050
+UTS_MPa,XGBoost,0.820,0.781,+0.039
+YS_MPa,XGBoost,0.707,0.793,-0.086
+Elongation_pct,XGBoost,0.780,0.762,+0.018
+Hardness_HB,XGBoost,0.790,0.833,-0.043
+Modulus_GPa,XGBoost,0.269,0.159,+0.109

@@ -1,0 +1,16 @@
+Target,Model,RMSE,MAE,R2
+UTS_MPa,LightGBM,53.08 +/- 10.01,41.00 +/- 8.41,0.790 +/- 0.175
+YS_MPa,LightGBM,61.05 +/- 8.67,45.29 +/- 8.60,0.743 +/- 0.136
+Elongation_pct,LightGBM,3.29 +/- 0.91,2.43 +/- 0.49,0.793 +/- 0.071
+Hardness_HB,LightGBM,15.41 +/- 3.41,11.94 +/- 2.37,0.794 +/- 0.100
+Modulus_GPa,LightGBM,2.02 +/- 1.22,1.38 +/- 0.70,0.363 +/- 0.512
+UTS_MPa,RandomForest,52.56 +/- 8.88,42.65 +/- 8.05,0.813 +/- 0.112
+YS_MPa,RandomForest,59.62 +/- 10.54,45.53 +/- 9.19,0.757 +/- 0.118
+Elongation_pct,RandomForest,3.21 +/- 0.96,2.38 +/- 0.51,0.805 +/- 0.067
+Hardness_HB,RandomForest,14.73 +/- 2.44,11.57 +/- 1.85,0.820 +/- 0.065
+Modulus_GPa,RandomForest,2.01 +/- 1.16,1.36 +/- 0.67,0.258 +/- 0.647
+UTS_MPa,XGBoost,51.29 +/- 7.52,39.37 +/- 6.81,0.820 +/- 0.113
+YS_MPa,XGBoost,65.37 +/- 14.93,47.93 +/- 12.53,0.707 +/- 0.148
+Elongation_pct,XGBoost,3.38 +/- 0.98,2.48 +/- 0.60,0.780 +/- 0.075
+Hardness_HB,XGBoost,15.70 +/- 2.98,12.20 +/- 2.18,0.790 +/- 0.086
+Modulus_GPa,XGBoost,2.04 +/- 1.25,1.38 +/- 0.71,0.269 +/- 0.603

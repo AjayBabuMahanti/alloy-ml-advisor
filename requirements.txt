@@ -1,0 +1,36 @@
+# AlloyML Project - Dependencies
+# Python 3.12
+
+# Core ML
+scikit-learn==1.8.0
+lightgbm==4.6.0
+xgboost==3.2.0
+shap==0.51.0
+numpy==2.4.2
+pandas==2.3.3
+scipy==1.17.0
+joblib==1.5.3
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==6.5.2
+
+# Web App
+streamlit==1.53.1
+altair==6.0.0
+pydeck==0.9.1
+
+# Reporting
+fpdf2==2.8.7
+PyMuPDF==1.27.2.2
+pillow==12.1.0
+
+# LLM Integration (Mistral chatbot)
+mistralai==2.4.1
+
+# Utilities
+pyarrow==23.0.0
+requests==2.32.5
+tqdm==4.67.3
+watchdog==6.0.0

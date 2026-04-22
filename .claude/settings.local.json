@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./venv/Scripts/python.exe -m pip install PyMuPDF)",
+      "Bash(./venv/Scripts/python.exe -c ':*)",
+      "Bash(\"C:/Users/AJAY BABU MAHANTI/OneDrive/Documents/Desktop/AlloyMLProject/venv/Scripts/python.exe\" -m pip freeze)"
+    ]
+  }
+}
