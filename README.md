@@ -1,9 +1,9 @@
 # AlloyML — AI-Powered Aluminum Alloy Advisor
 
 **Final Year B.Tech Project (MIN-400A, 2025–26)** — IIT Roorkee, Mechanical Engineering
-Under Prof. Anuj Bisht | Evaluation Board: Production & Industrial
+Under Prof. Anuj Bisht
 
-**Team:** Akshat Jain · Alumolu Rakesh Reddy · Mahanti Ajay Babu (22117079) · Himanshu Panwar · Ashok Godara
+**Team:** Akshat Jain · Alumolu Rakesh Reddy · Mahanti Ajay Babu · Himanshu Panwar · Ashok Godara
 
 ---
 
